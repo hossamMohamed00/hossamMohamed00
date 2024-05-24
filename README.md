@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Redis, Docker and kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hossamMohamed00](https://github.com/hossamMohamed00)
+- 👨‍💻 All of my projects are available at [Git](https://github.com/hossamMohamed00)
 
 - 💬 Ask me about **Web Development, Backend, Nodejs**
 
 - 📫 How to reach me **dev.hossamm@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1H2HQ8Ha1Gfn6QQri4loaHg5DW7S8LDra/view](https://drive.google.com/file/d/1H2HQ8Ha1Gfn6QQri4loaHg5DW7S8LDra/view)
+- 📄 Know about my experiences [My updated CV](https://drive.google.com/file/d/1EucC39avZP18_aR7yfoJ7W5Q_8EFfhnj/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,31 +21,26 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![C\#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
+- 🌐 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![.NET Core](https://img.shields.io/badge/-.NET%20Core-333333?style=flat&logo=.net)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat)
+  ![Socket.IO](https://img.shields.io/badge/-Socket.IO-333333?style=flat&logo=socket.io)
+  ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat&logo=webrtc)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Agile Methodologies](https://img.shields.io/badge/-Agile%20Methodologies-333333?style=flat)
 
 <br/>
